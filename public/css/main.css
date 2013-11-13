@@ -1,0 +1,22 @@
+
+.block {
+	display: block;
+	position: absolute;
+	top:20%; left:20%;
+	height: 100px; width: 100px;
+	margin-left:-50px; margin-top:-50px; /* center on position */
+	background:#f0f;
+	border-radius:50%;
+}
+
+.me {
+    background:yellow;
+}
+
+#ready {
+    position:absolute;
+}
+
+.template {
+    display:none;
+}
